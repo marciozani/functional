@@ -1,4 +1,4 @@
-# Functional concepts implemented in C#
+# Functional programming concepts in C#
 
 
 ## Option
